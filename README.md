@@ -15,13 +15,14 @@ It contains additional design data, HDL implementations, and SAT-based verificat
 ---
 
 ## 📁 Repository Structure
-'''
+
+```
 ├── SupplementaryMaterial.pdf
 ├── S-boxes/
 │ ├── ThisWork/
 │ └── RelatedWork/
 └── SAT_Code/
-'''
+```
 
 ### **1️⃣ SupplementaryMaterial.pdf**
 This document summarizes the **masking schemes** for several S-boxes, including:
