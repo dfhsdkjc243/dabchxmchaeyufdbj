@@ -53,7 +53,7 @@ For any questions, requests, or collaboration opportunities, please contact:
 
 **Lixuan Wu**  
 School of Cyber Science and Technology, Shandong University  
-📧 wulixuan05[at]sdu.edu.cn  
+📧 lixuanwu@sdu.edu.cn  
 
 ---
 
